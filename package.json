@@ -13,6 +13,6 @@
   "license": "ISC",
   "dependencies": {
     "@hapi/joi": "^17.1.1",
-    "axios": "^0.24.0"
+    "axios": "^1.6.0"
   }
 }
